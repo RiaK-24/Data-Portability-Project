@@ -24,7 +24,7 @@ As the Program Manager, I was responsible for:
 
 ---
 
-## Highlights
+## Achievements/Results
 
 - Delivered MVP in 6 months, full solution in 9 months
 - Implemented secure API gateway and AES-256 encryption
