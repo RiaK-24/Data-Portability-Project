@@ -54,6 +54,8 @@ This project is structured for easy navigation through each delivery phase. Each
 
 ## Phase-by-Phase Navigation
 
+## 🔍 Phase-by-Phase Navigation
+
 - [Phase 1: Initiation and Discovery](./01-Initiation-and-Discovery)
 - [Phase 2: Data Mapping and Analysis](./02-Data-Mapping-and-Analysis)
 - [Phase 3: Solution Architecture and Planning](./03-Solution-Architecture-and-Planning)
@@ -70,7 +72,7 @@ This project is structured for easy navigation through each delivery phase. Each
 | `04-Agile-Delivery-Sprints` | List of activities carried out in week 11-28 (Sprint Plan) |
 | `05-Testing-and-Validation` | List of activities carried out in week 29-32 (PAT, UAT) |
 | `06-GoLive-and-Post-Review` | List of activities carried out in week 33-36 (Go-live, training, post-implementation review) |
-| `Assets` | Visuals like Gantt chart, diagrams, and templates |
+| `Project Artifacts` | Visuals like Gantt chart, diagrams, and templates |
 
 ---
 
