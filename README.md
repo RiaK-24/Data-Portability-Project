@@ -79,4 +79,4 @@ This project is structured for easy navigation through each delivery phase. Each
 
 ## Contact
 
-For questions or collaboration, feel free to reach out on [LinkedIn](https://linkedin.com/in/your-profile) or email.
+For questions or collaboration, feel free to reach out on [LinkedIn](https://linkedin.com/in/ppa808) 
