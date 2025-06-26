@@ -48,9 +48,9 @@ As the Program Manager, I was responsible for:
 - Led decision-making on using common data lake vs. federated access model
 - Ensured encryption policies aligned with internal InfoSec and Bill 64 encryption guidelines
 
-## Folder Structure 
+## Navigation Instructions 
 
-This project is structured for easy navigation through each delivery phase. Each folder contains selected documents, templates, and visuals used during delivery. Sensitive content has been omitted or anonymized.
+This project is structured for easy navigation through each delivery phase. Each folder contains selected information, templates, and visuals used during delivery. Sensitive content has been omitted or anonymized.
 
 ## Phase-by-Phase Navigation
 
