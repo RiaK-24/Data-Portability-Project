@@ -14,7 +14,7 @@ This repository documents the project plan, execution approach, tools, and outco
 ---
 
 ## Role and Responsibility 
-- As the Program Manager, I was responsible for:
+As the Program Manager, I was responsible for:
 - End-to-end planning, delivery, and stakeholder management
 - Aligning legal, cybersecurity, architecture, and business teams
 - Managing a cross-functional delivery squad (BAs, developers, architects, testers)
