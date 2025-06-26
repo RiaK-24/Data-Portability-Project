@@ -17,7 +17,7 @@
 
 ## Approach and Methodology 
 
-We followed a Hybrid Agile model:
+I followed a Hybrid Agile model:
 
 - Sprint-based delivery for feature development and testing
 - Waterfall checkpoints for legal reviews, architecture sign-offs, and change control
