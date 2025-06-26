@@ -54,14 +54,15 @@ This project is structured for easy navigation through each delivery phase. Each
 
 ## Phase-by-Phase Navigation
 
-## 🔍 Phase-by-Phase Navigation
+- [Phase 1: Initiation and Discovery](https://github.com/RiaK-24/Data-Portability-Project/blob/main/01-Initiation%20and%20Discovery/README.md)
+- [Phase 2: Data Mapping and Analysis](https://github.com/RiaK-24/Data-Portability-Project/blob/main/02-Data-Mapping-and-Analysis/README.md)
+- [Phase 3: Solution Architecture and Planning](https://github.com/RiaK-24/Data-Portability-Project/blob/main/03-Solution-Architecture-and-Planning/README.md)
+- [Phase 4: Agile Delivery Sprints](https://github.com/RiaK-24/Data-Portability-Project/blob/main/04-Agile-Delivery-Sprints/README.md)
+- [Phase 5: Testing and Validation](https://github.com/RiaK-24/Data-Portability-Project/blob/main/05-Testing-and-Validation/README.md)
+- [Phase 6: GoLive and Post-Review](https://github.com/RiaK-24/Data-Portability-Project/blob/main/06-GoLive-and-Post-Review/README.md)
+- [Phase 7: Project Artifacts](https://github.com/RiaK-24/Data-Portability-Project/blob/main/07-Project-Artifacts/README.md)
+- [Phase 8: Key Challenges](https://github.com/RiaK-24/Data-Portability-Project/blob/main/08-Key-Challenges/README.md)
 
-- [Phase 1: Initiation and Discovery](./01-Initiation-and-Discovery)
-- [Phase 2: Data Mapping and Analysis](./02-Data-Mapping-and-Analysis)
-- [Phase 3: Solution Architecture and Planning](./03-Solution-Architecture-and-Planning)
-- [Phase 4: Agile Delivery Sprints](./04-Agile-Delivery-Sprints)
-- [Phase 5: Testing and Validation](./05-Testing-and-Validation)
-- [Phase 6: GoLive and Post-Review](./06-GoLive-and-Post-Review)
   
 
 | Folder | Description |
