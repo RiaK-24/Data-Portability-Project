@@ -45,6 +45,16 @@ As the Program Manager, I was responsible for:
 
 This project is structured for easy navigation through each delivery phase. Each folder contains selected documents, templates, and visuals used during delivery. Sensitive content has been omitted or anonymized.
 
+## Phase-by-Phase Navigation
+
+- [Phase 1: Initiation and Discovery](./01-Initiation-and-Discovery)
+- [Phase 2: Data Mapping and Analysis](./02-Data-Mapping-and-Analysis)
+- [Phase 3: Solution Architecture and Planning](./03-Solution-Architecture-and-Planning)
+- [Phase 4: Agile Delivery Sprints](./04-Agile-Delivery-Sprints)
+- [Phase 5: Testing and Validation](./05-Testing-and-Validation)
+- [Phase 6: GoLive and Post-Review](./06-GoLive-and-Post-Review)
+  
+
 | Folder | Description |
 |--------|-------------|
 | `01-Initiation-and-Discovery` | List of activities carried out in week 1-3 (Project kickoff, stakeholder mapping, and legal workshops) |
