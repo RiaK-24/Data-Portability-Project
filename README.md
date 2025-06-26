@@ -11,6 +11,13 @@ This repository documents the project plan, execution approach, tools, and outco
 - **Approach:** Hybrid Agile (Agile sprints + Waterfall checkpoints)
 - **Tools:** Jira, Confluence, MS Visio, Postman, ServiceNow
 
+## Tech Stack
+
+- Secure API Gateway
+- Data Encryption Standards
+- JSON format
+- Legacy and Cloud-based Apps
+
 ---
 
 ## Role and Responsibility 
