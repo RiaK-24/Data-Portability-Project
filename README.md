@@ -13,7 +13,37 @@ This repository documents the project plan, execution approach, tools, and outco
 
 ---
 
-## Folder Structure
+## Role and Responsibility 
+- As the Program Manager, I was responsible for:
+- End-to-end planning, delivery, and stakeholder management
+- Aligning legal, cybersecurity, architecture, and business teams
+- Managing a cross-functional delivery squad (BAs, developers, architects, testers)
+- Coordinating vendor evaluations and solution integration efforts
+- Overseeing secure API deployment and data standardization strategy
+- Reporting to the Data Governance Steering Committee and Compliance Office
+
+---
+
+## Highlights
+
+- Delivered MVP in 6 months, full solution in 9 months
+- Implemented secure API gateway and AES-256 encryption
+- Reduced manual request handling time by ~80%
+- Aligned business, legal, and IT stakeholders under a unified delivery plan
+
+---
+
+## Technical Awareness Demonstrated
+
+- Understood PI data types and their distribution across on-prem and cloud systems
+- Collaborated with Solution Architects on API design, payload schemas, and gateway security
+- Navigated challenges related to data duplication, format standardization, and latency
+- Led decision-making on using common data lake vs. federated access model
+- Ensured encryption policies aligned with internal InfoSec and Bill 64 encryption guidelines
+
+## Folder Structure 
+
+This project is structured for easy navigation through each delivery phase. Each folder contains selected documents, templates, and visuals used during delivery. Sensitive content has been omitted or anonymized.
 
 | Folder | Description |
 |--------|-------------|
@@ -24,15 +54,6 @@ This repository documents the project plan, execution approach, tools, and outco
 | `05-Testing-and-Validation` | List of activities carried out in week 29-32 (PAT, UAT) |
 | `06-GoLive-and-Post-Review` | List of activities carried out in week 33-36 (Go-live, training, post-implementation review) |
 | `Assets` | Visuals like Gantt chart, diagrams, and templates |
-
----
-
-## Highlights
-
-- Delivered MVP in 6 months, full solution in 9 months
-- Implemented secure API gateway and AES-256 encryption
-- Reduced manual request handling time by ~80%
-- Aligned business, legal, and IT stakeholders under a unified delivery plan
 
 ---
 
