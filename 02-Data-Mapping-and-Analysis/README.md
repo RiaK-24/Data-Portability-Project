@@ -4,7 +4,7 @@
 ## Activities performed during this phase
 - Facilitated workshops with application owners to identify systems containing PI data
 - Worked with Data Governance to classify PI elements (sensitive vs. general)
-- Mapped 15+ systems and documented data structures and overlaps
+- Mapped 53+ systems and documented data structures and overlaps
 - Conducted feasibility assessment for centralized vs federated access
 
 ## Key steps:
